@@ -1,4 +1,4 @@
-# CodePath/FastTrack iOS Development Program
+# CodePath/FastTrack iOS Development Program\s\s
 # University of Arizona – Fall 2018
 
 ## The Basics of Swift + XCode
@@ -17,19 +17,21 @@ Please read the [following guide](https://guides.codepath.com/ios/New-Project) f
 
 ## What are the different elements of an XCode project?
 
+Please read the [following guide](https://guides.codepath.com/ios/Project-Basics) for extra support.
+
 - The main UI area is called storyboard and is located within the **Main.storyboard** file. The launch screen for the app is located with the **Launchscreen.storyboard** file. 
 
 - Both the storyboard and launch screen are located with the **Base.lproj** folder.
 
 - The media assets are located in the **Assets.xcassets** folder. The **AppiIcon.appiconset** is where you set the various app icons.
 
-- The **<Project Name>Tests** and **<Project Name>UITests** folders contain all unit tests for the project. We will not be covering Unit Tests in this class, but we encourage you to explore those on your own.
+- The **\<ProjectName\>Tests** and **\<ProjectName\>UITests** folders contain all unit tests for the project. We will not be covering Unit Tests in this class, but we encourage you to explore those on your own.
 
 - The **Pods** folder, **Podfile**, and **Podfile.lock** contain all the necessary information for manging external libraries that are incorporated into your project.
 
 - The **Info.plist**, which stands for information property list, is written in XML, and contains metadata that help maintain  persistence and consistency across the app.
 
-- The **\<ProjectName\>.xcodeproj** or **<ProjectName>.xcodeworkspace** are what you use to open up your project workspace in XCode.
+- The **\<ProjectName\>.xcodeproj** or **\<ProjectName\>.xcodeworkspace** files are what you use to open up your project workspace in XCode.
 
 ## When creating a new class, what type of file should I choose?
 
