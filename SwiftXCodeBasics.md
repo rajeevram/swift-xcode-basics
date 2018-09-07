@@ -1,5 +1,4 @@
-# CodePath/FastTrack iOS Development Program\s\s
-# University of Arizona – Fall 2018
+# CodePath/FastTrack iOS Development Program <br /> University of Arizona – Fall 2018
 
 ## The Basics of Swift + XCode
 
