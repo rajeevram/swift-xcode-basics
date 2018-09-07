@@ -50,12 +50,12 @@ Please read the [following guide](https://guides.codepath.com/ios/Project-Basics
 
 ## When creating a new class, what type of file should I choose?
 
-– Every UI element in your storyboard should be created as a **CocoaTouchClass**. This includes ViewControllers, TableViews, TableViewCells, CollectionViews, CollectionViewCells, etc.
+- Every UI element in your storyboard should be created as a **CocoaTouchClass**. This includes ViewControllers, TableViews, TableViewCells, CollectionViews, CollectionViewCells, etc.
 
-– The model and API elements should be created as a **Swift File**. These do not rely on user interactions, but instead serve to mediate data among the various UI and storyboard elements.
+- The model and API elements should be created as a **Swift File**. These do not rely on user interactions, but instead serve to mediate data among the various UI and storyboard elements.
 
-– If you accidentally delete your storyboard or launch screen, you can create a new **Storyboard** or **Launch Screen** file.
+- If you accidentally delete your storyboard or launch screen, you can create a new **Storyboard** or **Launch Screen** file.
 
-– For Unit Tests, create a **UI Test Case Class** or **Unit Test Case** class.
+- For Unit Tests, create a **UI Test Case Class** or **Unit Test Case** class.
 
-– Create a new **Group** to group similar files together (e.g., views, models, managers, etc). Genrally, files in one group are publically visible to all other files in different groups, so there is not need to worry about package access as you would in another framework.
+- Create a new **Group** to group similar files together (e.g., views, models, managers, etc). Genrally, files in one group are publically visible to all other files in different groups, so there is not need to worry about package access as you would in another framework.
