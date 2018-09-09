@@ -2,7 +2,7 @@ Please refer to [the following guide](https://guides.codepath.com/ios/Swift-Basi
 
 ## What elements can I add to a ViewController backend?
 
-- The most common elements are **IBOutlets** and **IBActions**. **Outlets** are uses to associate objects in the view with variables in their associated .swift file.
+- The most common elements are **IBOutlets** and **IBActions**. **Outlets** are used to associate objects in the view with variables in their associated .swift file; press CTRL+Drag the object from the view into its class to create a new backend element.
 
 - **Actions** are event-handlers. That is, they are functions that are triggered whenever the user clicks on, enters, or otherwise interacts with that object in the view.
 
