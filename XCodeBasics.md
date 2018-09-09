@@ -50,4 +50,4 @@ Please read the [following guide](https://guides.codepath.com/ios/Project-Basics
 
 - For Unit Tests, create a **UI Test Case Class** or **Unit Test Case** class.
 
-- Create a new **Group** to group similar files together (e.g., views, models, managers, etc). Genrally, files in one group are publically visible to all other files in different groups, so there is not need to worry about package access as you would in another framework.
+- Create a new **Group** to group similar files together (e.g., views, models, managers, etc). Generally, files in one group are publicly visible to all other files in different groups, so there is not need to worry about package access as you would in another framework.
